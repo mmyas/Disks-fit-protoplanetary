@@ -3,9 +3,6 @@
 This package was designed to fit J1615 protoplanetary disk in the image plane, but is quite general and can be adapted quite easily to other disks.
 
 ## How to install the packages?
-requirements :
-1. Python3.7
-2. Several modules : numpy, matplotlib, astropy, scipy
 
 First, you should import my repository :
 `git clone https://github.com/YohannFaure/DiskFitting.git`
@@ -45,8 +42,6 @@ Some options are available, described within the code.
 
 This is just a toy program to point and click elements in an image.
 
-`python3 Spirals.py /home/yohann/Desktop/Stage2019/DiskFitting/spiral.fits --inc 10 --pa 10 --center '(511.74577572964677, 512.5657729367406)'`
-
 
 ### `RadialProfile.py`
 
@@ -85,13 +80,3 @@ Can be used to merge optimization files.
 
 Plots an image for a emcee optimization. It is quite custom.
 
-### `Legacy`
-
-Random bits of code that migh be usefull one day.
-
-## Contact and conditions
-
-If you need help feel free to contact me
-faure(dot)yohann(at)gmail(dot)com
-
-You can branch and improve this code freely.
