@@ -5,7 +5,7 @@ This package was designed to fit J1615 protoplanetary disk in the image plane, b
 ## How to install the packages?
 
 First, you should import my repository :
-`git clone https://github.com/YohannFaure/DiskFitting.git`
+`git clone https://github.com/mmyas/Disks-fit-protoplanetary.git'
 
 
 Then you should install the latest version of Emcee (which might not be in the usual repos).
